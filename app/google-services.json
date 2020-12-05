@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "767313955331",
+    "firebase_url": "https://timeismoney-edb62.firebaseio.com",
+    "project_id": "timeismoney-edb62",
+    "storage_bucket": "timeismoney-edb62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767313955331:android:17eb853069bfe5bd579c36",
+        "android_client_info": {
+          "package_name": "br.uninove.timeismoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767313955331-qftbeaj4h57fmdoks1m1g19b3rcj0610.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.uninove.timeismoney",
+            "certificate_hash": "8f2dcd7c5a02ec4151117d7759fdd66732a35ea5"
+          }
+        },
+        {
+          "client_id": "767313955331-8c9llilg18qpq50dcc1gc9ukh233p97h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFl8QDbHN2YiLIQE8WrofuEpvqJyVnv9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767313955331-8c9llilg18qpq50dcc1gc9ukh233p97h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
